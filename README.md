@@ -1,4 +1,4 @@
-## In-depth Description of the Limit Calculator Code
+## Overview of Limit Calculator Code
 
 The limit calculator offers a user-friendly interface for calculating limits of mathematical expressions. It utilizes symbolic mathematics to handle complex expressions and provides options for custom limits, graphing, and theme switching. The calculator is designed to be accessible to users with varying levels of mathematical expertise, offering a valuable tool for exploring and understanding limits in various contexts.
 
@@ -82,3 +82,7 @@ Tkinter is a Python GUI toolkit used to create the user interface for the limit 
 * **Other features:** Tkinter offers additional features like color customization, font selection, and window management.
 
 By incorporating these features and enhancements, the limit calculator can become a powerful tool for students, researchers, and mathematicians, facilitating the exploration and understanding of limits in various mathematical contexts.
+
+## Author
+
+You can connect with the author on [LinkedIn](https://www.linkedin.com/in/anmol1701/).
